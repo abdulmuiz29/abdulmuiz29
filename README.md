@@ -1,22 +1,36 @@
-<h1 align="center">Hi 👋, I'm Abd. Mu'iz Samsul Arifin</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<h1 align="left">Hi, I'm Abd. Mu'iz Samsul Arifin</h1>
+<p align="left">I'm learning web development</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmuiz29&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmuiz29" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, and PHP**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/abdulmuiz_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulmuiz_29" height="30" width="40" /></a>
-<a href="https://medium.com/@amuiz29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amuiz29" height="30" width="40" /></a>
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c%23&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-ccaa30?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/mysql-00f?style=for-the-badge&logo=mysql&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/abdulmuiz29">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulmuiz29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulmuiz29&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmuiz29&show_icons=true&locale=en&layout=compact" alt="abdulmuiz29" /></p>
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/abd-muiz-samsul-arifin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abdulmuiz55701@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/abdulmuiz_29/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmuiz29&show_icons=true&locale=en" alt="abdulmuiz29" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmuiz29&" alt="abdulmuiz29" /></p>
+-----
